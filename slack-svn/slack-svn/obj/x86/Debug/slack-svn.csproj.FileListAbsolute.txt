@@ -1,0 +1,4 @@
+Y:\Documents\projects\evoke health\slack\svn-slack-integration\slack-svn\slack-svn\bin\Debug\slack-svn.exe
+Y:\Documents\projects\evoke health\slack\svn-slack-integration\slack-svn\slack-svn\bin\Debug\slack-svn.pdb
+Y:\Documents\projects\evoke health\slack\svn-slack-integration\slack-svn\slack-svn\obj\x86\Debug\slack-svn.exe
+Y:\Documents\projects\evoke health\slack\svn-slack-integration\slack-svn\slack-svn\obj\x86\Debug\slack-svn.pdb
